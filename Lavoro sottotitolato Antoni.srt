@@ -1,0 +1,180 @@
+﻿1
+00:00:00,000 --> 00:00:04,960
+<b> Il criterio da me scelto ovvero quello di  Manuel Antoni </b>
+
+2
+00:00:05,020 --> 00:00:09,960
+Il 2.5.3 chiamatosi label in name oggi spieghero tutti
+
+3
+00:00:11,980 --> 00:00:19,000
+Gli esempi che ho fatto nel mio documento visto che lo feci una volta ma
+
+4
+00:00:19,000 --> 00:00:25,020
+Mancava di documentazione quindi spieghero direttamente tutto quello che ho fatto. Nel primo esempio
+
+5
+00:00:25,020 --> 00:00:34,000
+Che vediamo ho fatto una frase al cui interno c'è un link ovvero questo che ci porta a
+
+6
+00:00:34,000 --> 00:00:40,000
+Una pagina esterna che è questa una azienda conosciuta immagino
+
+7
+00:00:40,920 --> 00:00:50,000
+L'ho presa da questo esempio qui e questo è quello che è stato fatto
+
+8
+00:00:50,000 --> 00:00:56,000
+Sul codice ovvero ho fatto una parte di scritta normale
+
+9
+00:00:56,000 --> 00:01:05,320
+E dentro ho copiato il link e subito dopo ho scritto la frase o la parola
+
+10
+00:01:05,320 --> 00:01:17,680
+In cui volevo diciamo nascondere il link ecco....
+
+11
+00:01:17,680 --> 00:01:26,620
+Il secondo esempio è sempre una frase al cui interno ci sta un link bensì
+
+12
+00:01:26,620 --> 00:01:40,220
+In una intestazione diversa ovvero nel mio esempio ho scritto il governo
+
+13
+00:01:40,220 --> 00:01:45,200
+Ha approvato nuovi decreti per questa emergenza  e clicca su "more" per saperne di più
+
+14
+00:01:45,200 --> 00:01:52,200
+Se si clicca su more ovviamente porterà al sito ufficiale
+
+15
+00:01:52,200 --> 00:01:58,220
+è uguale all'esempio fatto in precedenza bensì ha uno scopo diverso
+
+16
+00:01:58,220 --> 00:02:06,760
+Sono uguali in tutto e per tutto solo che si trovano in contesti diversi
+
+17
+00:02:06,760 --> 00:02:16,360
+L'esempio 3 è sempre un link bensì un link non funzionante
+
+18
+00:02:16,360 --> 00:02:23,360
+Ovvero non porta a nulla infatti se proviamo a cliccarci dice il file non è stato trovato
+
+19
+00:02:23,360 --> 00:02:36,340
+E qui ho semplicemente messo un link che non esiste, non ha un senso
+
+20
+00:02:36,340 --> 00:02:45,480
+Invece passando ad un nuovo campo diciamo passiamo ai bottoni
+
+21
+00:02:55,920 --> 00:03:06,420
+I bottoni, eccoli qui.... allora questo bottone non è funzionante perchè il nostro non funziona assolutamente
+
+22
+00:03:06,420 --> 00:03:13,420
+Non funziona nessuno di questi bottoni però diciamo che è solo un esempio che servirà in caso
+
+23
+00:03:13,420 --> 00:03:22,380
+Vogliamo fare un sito in cui abbiamo bisogno dei bottoni
+
+24
+00:03:22,380 --> 00:03:38,340
+Questo è il codice ho fatto la classe button con scritto manda email che però non farà niente
+
+25
+00:03:38,340 --> 00:03:55,340
+E questa è una casella da spuntare che avvisa di un email in entrata
+
+26
+00:03:55,340 --> 00:03:59,340
+Cioè teoriacamente arriva una email nella propria casella postale cliccando questo bottone
+
+27
+00:03:59,340 --> 00:04:05,300
+Dovrebbe arrivare una notifica riguardante l'email appena arrivata però in questo caso
+
+28
+00:04:05,300 --> 00:04:12,400
+Non è funzionante poi abbiamo un gruppo di pulsanti
+
+29
+00:04:12,400 --> 00:04:17,320
+Un gruppo di pulsanti che può essere da 2 fino ad un numero indefinito in questo caso
+
+30
+00:04:17,320 --> 00:04:24,400
+Rigurdante l'email abbiamo avvisami quando ho più di 10 email si o no
+
+31
+00:04:24,400 --> 00:04:36,140
+Teoricamente se applicato correttamente questo criterio dovrebbe funzionare.
+
+32
+00:04:36,140 --> 00:04:43,460
+Ovvero se nella propria casella postale arrivano più di 10 email cliccando si
+
+33
+00:04:43,460 --> 00:04:48,580
+Dovrebbe arrivarci una notifica riguardante questo
+
+34
+00:04:48,580 --> 00:04:59,520
+Poi ho creato anche un esempio di password, ho scritto la password
+
+35
+00:04:59,520 --> 00:05:06,020
+Che deve contenere almeno 10 caratteri almeno un carattere maiuscolo, numerico e non alfanumerico
+
+36
+00:05:06,020 --> 00:05:23,600
+Questo è il codice e funziona come una password teoricamente
+
+37
+00:05:23,600 --> 00:05:36,320
+Se noi andiamo in un sito e mettiamo utente e password dovrebbe funzionare
+
+38
+00:05:36,320 --> 00:05:40,880
+Attualmente non funziona ma non era richiesto che funzionasse
+
+39
+00:05:40,880 --> 00:05:53,660
+Poi abbiamo un gruppo di pulsanti per espressioni di etichette diciamo che
+
+40
+00:05:53,660 --> 00:05:57,660
+Per dare più scelta per lasciare una recensione in questo caso c'è odio
+
+41
+00:05:57,660 --> 00:06:05,680
+Poi ci dovrebbe essere dei punti di stallo diciamo questo dovrebbe essere normale-mi piace-adoro
+
+42
+00:06:05,680 --> 00:06:09,160
+Odio-non mi piace
+
+43
+00:06:09,160 --> 00:06:21,500
+Dovrebbe essere qui se non sbaglio, questo è il codice
+
+44
+00:06:21,500 --> 00:06:34,840
+Ed è relativamente semplice fa parte della classe file di set
+
+45
+00:06:34,840 --> 00:06:36,840
+Basta penso non servano ulteriori spiegazioni, spero di essere stato abbastanza chiaro Grazie per l'attenzione
+
